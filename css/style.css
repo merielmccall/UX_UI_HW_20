@@ -10,3 +10,10 @@
 .userPersona {
   width: 700px;
 }
+
+.jumbotron {
+  background-image: url(../images/Jumbo\ pic.png);
+  background-size: cover;
+  height: 500px;
+  height: calc(75vh - 25px);
+}
